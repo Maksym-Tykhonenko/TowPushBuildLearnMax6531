@@ -56,7 +56,7 @@ const Lkjhgfdsa = () => {
 
   const ONESIGNAL_KEY = `73c8d1e6-b2d4-484a-a25d-61af7d9e74df`;
 
-  const TARGET_DATA = new Date(2026, 2, 9, 8, 8, 0);
+  const TARGET_DATA = new Date(2026, 3, 11, 8, 8, 0);
 
   useEffect(() => {
     const fetchData = async () => {
